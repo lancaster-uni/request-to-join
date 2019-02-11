@@ -1,7 +1,7 @@
 # request-to-join
 Request to join the lancaster-uni organisation
 
-# Only use if online registration is down! [http://lancaster-uni.me/github/](Click Here)
+# Only use if online registration is down! http://lancaster-uni.me/github/
 
 # How-to:
 
